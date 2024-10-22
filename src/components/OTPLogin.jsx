@@ -1,3 +1,5 @@
+//create a stat var isOTPSent which is initialy set to false and phone number which is empty
+// if isotpsent is false then it calls NumberInput component and
 
 
 
